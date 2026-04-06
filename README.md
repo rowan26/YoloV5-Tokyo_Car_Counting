@@ -54,28 +54,6 @@ git clone https://github.com/rowan26/YoloV5-Tokyo_Car_Counting
 cd YoloV5-Tokyo_Car_Counting
 ```
 
-### 2. Install dependencies
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Run the vehicle counter
-```bash
-python count.py --source video/abbey_road.mp4
-```
-
----
-
-## 📁 Project Structure
-YoloV5-Tokyo_Car_Counting/
-│
-├── count.ipynb              # Main counting script
-├── video/
-│   └── abbey_road.mp4    # Input video
-└── README.md
-
----
-
 ## 🧠 How It Works
 
 1. **Load video** — OpenCV reads the MP4 frame by frame
