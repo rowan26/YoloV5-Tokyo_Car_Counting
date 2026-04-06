@@ -69,8 +69,7 @@ python count.py --source video/abbey_road.mp4
 ## 📁 Project Structure
 YoloV5-Tokyo_Car_Counting/
 │
-├── count.py              # Main counting script
-├── requirements.txt      # Dependencies
+├── count.ipynb              # Main counting script
 ├── video/
 │   └── abbey_road.mp4    # Input video
 └── README.md
